@@ -1,3 +1,5 @@
+Пересобрано на React.js на основе https://github.com/iDmDa/adv-html-dz
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
